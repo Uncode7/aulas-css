@@ -1,0 +1,27 @@
+body {
+  background-color: #263348;
+}
+
+#titulo {
+  color: white;
+}
+
+#diasSemana {
+  color: yellow;
+}
+#diasSemana > ul {
+  color: white;
+}
+
+.diaSem {
+  background-color: yellow;
+  padding-left: 10px;
+}
+
+.diaSem + ul {
+  color: white;
+}
+
+.diaEsp {
+  color: red;
+}
